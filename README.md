@@ -125,33 +125,3 @@ Adiciona @ e coloca o nome do perfil da pessoa.
 ## Adicionar Replays
 
 > Esse é um replay
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
